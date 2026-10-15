@@ -20,7 +20,8 @@ class ProcessImportJob implements ShouldQueue
     use Queueable;
 
     public int $tries = 1;
-
+    public int $timeout = 300;
+    
     private const BATCH_SIZE = 1000;
 
     public function __construct(
