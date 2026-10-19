@@ -9,4 +9,4 @@
 
 
 #### horizon:
-* ![изображение](https://github.com/vadimlvov71/file_handled_in_batches_with_laravel/blob/main/public/images/ddd_tests.png)
+* ![изображение](https://github.com/vadimlvov71/file_handled_in_batches_with_laravel/blob/main/public/images/horizon.png)
