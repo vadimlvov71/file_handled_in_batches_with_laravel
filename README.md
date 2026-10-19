@@ -1,4 +1,4 @@
-####  laravel 12 
+####  laravel 12: a 100 000 rows file inserted in database
 ##### About The Project 
 * an xlsx file is handled in batches with laravel queue and being monitored by laravel horizon
 
@@ -6,6 +6,7 @@
 * php 8.2
 * Laravel 12
 * Mysql
+* Redis
 
 
 #### horizon:
